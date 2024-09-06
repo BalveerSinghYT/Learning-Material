@@ -91,4 +91,3 @@ If you don't have a strong reason to choose between Power BI and Tableau, I woul
 --------------------------------------    
 * Free book on statistics: http://greenteapress.com/thinkstats/thinkstats.pdf
 * Another good book on statistics (not free) Naked Statistics - Charles Wheelan
-
